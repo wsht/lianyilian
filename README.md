@@ -34,7 +34,5 @@
   现在该游戏界面有可能已经改版。可以替换对应的head.png，或者bottom.png 来适应匹配
 
   ## 最终结果
-  <!-- ![](./res.mp4) -->
-  <video id="video" controls="" preload="none" poster="./res.mp4">
-<source id="mp4" src="./res.mp4" type="video/mp4">
-</video>
+  ![](./output.gif)
+
